@@ -16,8 +16,7 @@
 
     <properties>
         <java.version>1.8</java.version>
-        <dir>${project.basedir}/host</dir>
-    </properties>
+     </properties>
 
     <dependencies>
         <dependency>
